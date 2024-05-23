@@ -6,8 +6,8 @@
 
 Python is a programming language that has become very popular in recent years. It's used for everything from web development to data science and machine learning. This skill tree will teach you how to use Python from the command line, as well as some basic programming concepts like variables and functions.
 
-|   Index | Name                                                  | Difficulty   | Tutorial                                                                                                    |
-|---------|-------------------------------------------------------|--------------|-------------------------------------------------------------------------------------------------------------|
+|   Index | Name                                                  | Difficulty   | Tutorial                                                                                                   |
+|---------|-------------------------------------------------------|--------------|------------------------------------------------------------------------------------------------------------|
 |     001 | Your First Python Lab                                 | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/your-first-python-lab-270256)                                 |
 |     002 | Data Types and Conversion                             | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/data-types-and-conversion-290726)                             |
 |     003 | Effective Python Code Commenting                      | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/effective-python-code-commenting-72)                          |
@@ -373,7 +373,7 @@ Python is a programming language that has become very popular in recent years. I
 |     363 | Controlling Symbols and Combining Submodules          | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/controlling-symbols-and-combining-submodules-132530)          |
 |     364 | Circular and Dynamic Module Imports                   | ★☆☆          | [🔗 Learning Free](https://labex.io/tutorials/circular-and-dynamic-module-imports-132531)                   |
 
-## Other Free Tutorials
+## More Free Tutorials
 
 - [Linux Free Tutorials](https://github.com/labex-labs/linux-free-tutorials)
 - [Python Free Tutorials](https://github.com/labex-labs/python-free-tutorials)
@@ -400,4 +400,8 @@ Python is a programming language that has become very popular in recent years. I
 - [React Free Tutorials](https://github.com/labex-labs/react-free-tutorials)
 - [Cyber Security Free Tutorials](https://github.com/labex-labs/cysec-free-tutorials)
 
+
+## More Courses
+
+- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
 
